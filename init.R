@@ -1,6 +1,6 @@
-init . R
-
-Example R code to install packages if n ot already installed
+#init.R
+#
+#Example R code to install packages if n ot already installed
 
 my_packages	c ("randomForest" , " data . table"
 
